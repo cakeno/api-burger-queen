@@ -13,9 +13,5 @@ module.exports = (sequelize, DataTypes) => {
 
   // User.sync({force: true})
 
-  // User.create({
-
-  // })
-
   return User;
 };
